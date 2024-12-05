@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 class="FEM_Agencia">FEM Agencia</h1>
+        <a href="sobre.html" class="Sobre">Sobre</a>
+        <a href="servicos.html" class="Servicos">Serviços</a>
+        <a href="contato.html" class="Contato">Contato</a>
+        <a href="blog.html" class="Blog">Blog</a>
+        </header>
+        <h2 class="Contatoo">Contato :</h2>
+        <form>
+          <div class="nome">
+          <table>
+            <tr>
+              <td>Nome:</td>
+              <td><input type="text" name="nome" size="40"> <br /></td>
+            </tr>
+            <tr>
+              <td>Sobrenome:</td>
+              <td><input type="text" name="sobrenome" size="40"> <br /></td>
+            </tr>
+           </table>
+          </div>
+          <div class="telefone"><label for="telefone">Insira o número de Telefone :</label>
+            <input type="tel" id="telefone" class="input-padrao" required placeholder="(xx) xxxxx-xxxx">
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Insira o e-mail :</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <div id="emailHelp" class="form-text">Não vamos roubar seu e-mail ou algo assim.</div>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Insira a senha :</label>
+              <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+          
+            <button type="submit" class="btn btn-primary">Enviar</button>
+          </form>
+          
+        <script src="script.js"></script>
+    </body>
+    
+    </html>
