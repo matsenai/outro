@@ -1,0 +1,213 @@
+header{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+ justify-content: space-around;
+ align-items: center;
+ font-size: 30px;
+
+}
+body{
+    background-color: black;
+}
+.FEM_Agencia{
+    width: 20;
+    font-size: 40px;
+}
+.Sobre{
+    width: 20;
+}
+.Servicos{
+    height: 60;
+    width: 20;
+}
+.Contato{
+    height: 60;
+    width: 20;
+}
+.Blog{
+    height: 60;
+    width: 20;
+}
+h2{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.FEM{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+.coca{
+    display: flex;
+    width: 1000px;
+ justify-content: left;
+}
+.adias{
+    display: flex;
+    width: 1000px;
+   justify-content: left;
+}
+.servicoss{
+    color: aliceblue;
+     display: flex;
+ justify-content: space-around;
+ align-items: center;
+ font-size: 30px;
+
+}
+.cocaa{
+    color: aliceblue;
+    justify-content: space-around;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 150px;
+}
+.warner{
+    color: aliceblue;
+    justify-content: space-around;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 125px;
+}
+.adidass{
+    color: aliceblue;
+    justify-content: space-around;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 175px;
+}
+.googlee{
+    color: aliceblue;
+    justify-content: space-around;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 235px;
+}
+.noticiass{
+    color: aliceblue;
+    display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 30px;
+}
+.chatgpt{
+    background-image: url(WhatsApp-Image-2023-02-17-at-14.06.23.jpeg);
+    color: aliceblue;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+    height: 500px;
+    width: 1000px;
+}
+.vr{
+    background-image: url(realidade-virtual-e-aumentada.jpg);
+    color: aliceblue;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+    height: 500px;
+    width: 1000px;
+}
+.vr1{
+    color: aliceblue;
+    display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 30px;
+}
+.vr2{
+    color: aliceblue;
+    display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 30px;
+}
+.fotosblog{
+    display: flex;
+}
+.vrnoticias{
+    color: aliceblue;
+}
+.chatgptnoticias{
+    color: aliceblue;
+}
+.fotosservicos{
+    display: flex;
+    align-items: center;
+}
+.fotosinicio{
+    display: flex;
+}
+.faleconosco{
+    color: aliceblue;
+    font-size: 30px;
+}
+.mb-3{
+    color: aliceblue;
+    font-size: 30px;
+}
+.telefone{
+    color: aliceblue;
+    font-size: 30px;
+align-items: center;
+display: flex;
+}
+.form-control{
+    align-items: center;
+}
+.nome{
+    color: aliceblue;
+    font-size: 30px;
+}
+.historia{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+.clicando{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.warnerbros{
+    display: flex;
+    width: 1000px;
+ justify-content: left;
+ height: 800px;
+}
+.googleeee{
+    display: flex;
+    width: 1000px;
+ justify-content: left;
+ height: 800px;
+}
+.servicosss{
+    color: aliceblue;
+    font-size: 30px;
+}
+.confianca{
+    color: aliceblue;
+    font-size: 40px;
+}
+.oservico{
+    border:1px solid white;
+    color: aliceblue;
+    display: flex;
+align-items: center;
+font-size: 30px;
+}
